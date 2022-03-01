@@ -1,0 +1,14 @@
+.itemShop {
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 550;
+    border: 2px solid #acacac;
+    border-radius: 5px;
+    transition-delay: 200ms;
+}
+
+.itemShop:hover {
+    color: #626262;
+}
