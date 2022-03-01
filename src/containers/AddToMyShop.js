@@ -19,7 +19,7 @@ export default function AddToMyShop() {
 
   useEffect(() => {
     fetchAddToMyShop();
-  }, [productId.productId])
+  })
 
   return (
     <div>
